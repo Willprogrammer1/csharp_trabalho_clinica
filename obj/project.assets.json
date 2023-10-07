@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\willian\\.nuget\\packages\\": {}
+    "/home/leo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willian\\Documents\\projetos\\csharp\\terminal_clinica\\terminal_clinica.csproj",
+      "projectUniqueName": "/home/leo/Desktop/projects/C#/csharp_trabalho_clinica/terminal_clinica.csproj",
       "projectName": "terminal_clinica",
-      "projectPath": "C:\\Users\\willian\\Documents\\projetos\\csharp\\terminal_clinica\\terminal_clinica.csproj",
-      "packagesPath": "C:\\Users\\willian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willian\\Documents\\projetos\\csharp\\terminal_clinica\\obj\\",
+      "projectPath": "/home/leo/Desktop/projects/C#/csharp_trabalho_clinica/terminal_clinica.csproj",
+      "packagesPath": "/home/leo/.nuget/packages/",
+      "outputPath": "/home/leo/Desktop/projects/C#/csharp_trabalho_clinica/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\willian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/leo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/leo/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
