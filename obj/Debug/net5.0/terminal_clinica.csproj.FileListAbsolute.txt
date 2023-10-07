@@ -1,0 +1,16 @@
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\bin\Debug\net5.0\terminal_clinica.exe
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\bin\Debug\net5.0\terminal_clinica.deps.json
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\bin\Debug\net5.0\terminal_clinica.runtimeconfig.json
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\bin\Debug\net5.0\terminal_clinica.runtimeconfig.dev.json
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\bin\Debug\net5.0\terminal_clinica.dll
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\bin\Debug\net5.0\ref\terminal_clinica.dll
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\bin\Debug\net5.0\terminal_clinica.pdb
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\obj\Debug\net5.0\terminal_clinica.csproj.AssemblyReference.cache
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\obj\Debug\net5.0\terminal_clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\obj\Debug\net5.0\terminal_clinica.AssemblyInfoInputs.cache
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\obj\Debug\net5.0\terminal_clinica.AssemblyInfo.cs
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\obj\Debug\net5.0\terminal_clinica.csproj.CoreCompileInputs.cache
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\obj\Debug\net5.0\terminal_clinica.dll
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\obj\Debug\net5.0\ref\terminal_clinica.dll
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\obj\Debug\net5.0\terminal_clinica.pdb
+C:\Users\willian\Documents\projetos\csharp\terminal_clinica\obj\Debug\net5.0\terminal_clinica.genruntimeconfig.cache
